@@ -9,7 +9,7 @@
 <img src = "yolo_example.jpg" alt = "input_image" title = "Input Image">
 
 - Output of above image after applied yolo
-<img src = "output.png" alt = "input_image" title = "Input Image">
+<img src = "output.png" alt = "Output_image" title = "Output Image">
 
 
 # Reference
